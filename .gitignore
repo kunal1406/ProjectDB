@@ -1,0 +1,10 @@
+# Exclude virtual environment
+venv/
+
+# Exclude compiled Python files
+__pycache__/
+
+# Exclude database and Excel files (if they are large or unnecessary in the repo)
+*.accdb
+*.xlsx
+*.xls
